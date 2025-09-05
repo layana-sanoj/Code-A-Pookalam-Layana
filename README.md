@@ -24,7 +24,7 @@ HTML,CSS and JS
 
 ### Video explaining How you build the pookalam
 
-
+[![Screen Recording Preview](screen-recording.mp4)
 
 ### Screenshots
 

@@ -28,7 +28,7 @@ HTML,CSS and JS
 
 ### Screenshots
 
-
+<img src="./ss-pookalam.png" alt="pookalam screenshot" width="200" height="200"
 
 Happy Onam ! <br>
 Made with ❤️ at TinkerHub LBSITW
